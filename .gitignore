@@ -1,0 +1,4 @@
+file_ids.json
+.env
+pycache/
+*.pyc
